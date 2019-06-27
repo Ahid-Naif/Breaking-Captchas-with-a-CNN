@@ -12,7 +12,7 @@ import numpy as np
 import cv2
 import os
 
-datasetPath = ""
+datasetPath = "dataset"
 numEpochs   = 15
 
 # initialize the data and labels
